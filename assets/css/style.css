@@ -6,9 +6,9 @@ body {
 
 header {
     background-color: white;
-    height: 10vh;
     border-style: solid;
     border-color: #ccc;
+    height: 10.5vh;
     width: 100%;
 }
 
@@ -25,7 +25,7 @@ h1 {
 
 .pushToTop {
     position: fixed;
-    top: 0px;
+    top: 53px;
 }
 
 button {
@@ -52,7 +52,7 @@ button {
 }
 
 a {
-    color: grey;
+    color: #777777 !important;
 }
 
 .tag1 {
