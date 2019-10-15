@@ -230,5 +230,10 @@ a {
 }
 
 @media screen and (max-width:750px) {
-    body {}
+    .wrapper {
+        width: 100%;
+    }
+    body {
+        width: 100%;
+    }
 }
