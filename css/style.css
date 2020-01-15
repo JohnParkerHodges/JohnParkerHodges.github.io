@@ -1,0 +1,44 @@
+.part1bodycolor {
+    background-image: url(../images/white-waves.png);
+    height: 100vh + 30rem;
+}
+
+.Header1padding {
+    padding-right: 99px;
+}
+
+.aboutFontSize {
+    font-size: 23px;
+}
+
+.Projects {
+    justify-content: center;
+}
+
+.topPadding {
+    padding-top: 15px;
+}
+
+.topPaddingContact {
+    padding-top: 40px;
+}
+
+.bottompadding {
+    padding-bottom: 100px;
+}
+
+.linkbtn {
+    float: right;
+}
+
+h1 {
+    font-family: 'Ibarra Real Nova', serif;
+}
+ 
+p {
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+h4 {
+    font-family: 'Ibarra Real Nova', serif; 
+}
